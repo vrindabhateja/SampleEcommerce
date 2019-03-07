@@ -1,0 +1,4 @@
+com\mycompany\sampleecommerce\impl\CategoryDAOImpl.class
+com\mycompany\sampleecommerce\servlets\AddCategoryToDB.class
+com\mycompany\sampleecommerce\models\Category.class
+com\mycompany\sampleecommerce\dao\CategoryDAO.class
